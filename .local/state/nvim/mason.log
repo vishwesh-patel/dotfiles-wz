@@ -1,0 +1,124 @@
+[INFO  Sun Mar 23 21:11:41 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Sun Mar 23 21:11:41 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shfmt) {}
+[INFO  Sun Mar 23 21:11:42 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=shfmt)
+[ERROR Sun Mar 23 21:11:43 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 21:11:53 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  Sun Mar 23 21:11:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  Sun Mar 23 21:13:57 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Sun Mar 23 21:13:58 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 21:15:06 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Sun Mar 23 21:15:07 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 21:16:08 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Sun Mar 23 21:16:09 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 21:17:22 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Sun Mar 23 21:17:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 21:17:52 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Sun Mar 23 21:17:53 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 21:18:13 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Sun Mar 23 21:18:13 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 21:19:30 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Sun Mar 23 21:19:31 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 21:31:01 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Sun Mar 23 21:31:02 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 21:32:38 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Sun Mar 23 21:32:39 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 21:35:50 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Sun Mar 23 21:35:50 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=hadolint) {}
+[INFO  Sun Mar 23 21:35:50 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=csharpier) {}
+[INFO  Sun Mar 23 21:35:50 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=netcoredbg) {}
+[INFO  Sun Mar 23 21:35:51 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=omnisharp) {}
+[INFO  Sun Mar 23 21:35:51 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=hadolint)
+[INFO  Sun Mar 23 21:35:52 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=angular-language-server) {}
+[ERROR Sun Mar 23 21:35:52 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 21:35:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=dockerfile-language-server) {}
+[INFO  Sun Mar 23 21:35:56 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=netcoredbg)
+[INFO  Sun Mar 23 21:35:57 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=docker-compose-language-service) {}
+[ERROR Sun Mar 23 21:35:57 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=omnisharp) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 21:35:59 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vtsls) {}
+[INFO  Sun Mar 23 21:35:59 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=csharpier)
+[INFO  Sun Mar 23 21:36:00 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyright) {}
+[INFO  Sun Mar 23 21:36:00 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=angular-language-server)
+[INFO  Sun Mar 23 21:36:00 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff) {}
+[INFO  Sun Mar 23 21:36:00 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=dockerfile-language-server)
+[ERROR Sun Mar 23 21:36:00 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff) error=spawn: python3 failed with exit code 1 and signal 0. 
+[INFO  Sun Mar 23 21:36:02 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=docker-compose-language-service)
+[INFO  Sun Mar 23 21:36:06 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=vtsls)
+[INFO  Sun Mar 23 21:36:29 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pyright)
+[INFO  Sun Mar 23 21:40:47 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Sun Mar 23 21:40:47 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=omnisharp) {}
+[INFO  Sun Mar 23 21:40:47 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff) {}
+[ERROR Sun Mar 23 21:40:48 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff) error=spawn: python3 failed with exit code 1 and signal 0. 
+[ERROR Sun Mar 23 21:40:48 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[ERROR Sun Mar 23 21:40:52 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=omnisharp) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 21:41:33 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Sun Mar 23 21:41:33 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=omnisharp) {}
+[INFO  Sun Mar 23 21:41:33 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff) {}
+[ERROR Sun Mar 23 21:41:33 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff) error=spawn: python3 failed with exit code 1 and signal 0. 
+[ERROR Sun Mar 23 21:41:34 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[ERROR Sun Mar 23 21:41:38 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=omnisharp) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 21:42:37 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Sun Mar 23 21:42:37 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff) {}
+[INFO  Sun Mar 23 21:42:37 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=omnisharp) {}
+[ERROR Sun Mar 23 21:42:38 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff) error=spawn: python3 failed with exit code 1 and signal 0. 
+[ERROR Sun Mar 23 21:42:39 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[ERROR Sun Mar 23 21:42:42 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=omnisharp) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 21:47:23 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Sun Mar 23 21:47:25 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 21:53:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Sun Mar 23 21:53:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff) {}
+[INFO  Sun Mar 23 21:53:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=omnisharp) {}
+[ERROR Sun Mar 23 21:53:41 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff) error=spawn: python3 failed with exit code 1 and signal 0. 
+[ERROR Sun Mar 23 21:53:41 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[ERROR Sun Mar 23 21:53:45 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=omnisharp) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 21:57:28 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Sun Mar 23 21:57:29 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=omnisharp) {}
+[INFO  Sun Mar 23 21:57:29 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff) {}
+[ERROR Sun Mar 23 21:57:29 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff) error=spawn: python3 failed with exit code 1 and signal 0. 
+[ERROR Sun Mar 23 21:57:29 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[ERROR Sun Mar 23 21:57:34 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=omnisharp) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 22:03:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Sun Mar 23 22:03:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff) {}
+[INFO  Sun Mar 23 22:03:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=omnisharp) {}
+[ERROR Sun Mar 23 22:03:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff) error=spawn: python3 failed with exit code 1 and signal 0. 
+[ERROR Sun Mar 23 22:03:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[ERROR Sun Mar 23 22:03:45 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=omnisharp) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 22:03:49 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Sun Mar 23 22:03:49 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=omnisharp) {}
+[INFO  Sun Mar 23 22:03:49 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff) {}
+[ERROR Sun Mar 23 22:03:50 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff) error=spawn: python3 failed with exit code 1 and signal 0. 
+[ERROR Sun Mar 23 22:03:50 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[ERROR Sun Mar 23 22:03:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=omnisharp) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 22:09:08 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Sun Mar 23 22:09:09 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff) {}
+[INFO  Sun Mar 23 22:09:09 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=omnisharp) {}
+[ERROR Sun Mar 23 22:09:09 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff) error=spawn: python3 failed with exit code 1 and signal 0. 
+[ERROR Sun Mar 23 22:09:11 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[ERROR Sun Mar 23 22:09:14 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=omnisharp) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 22:37:25 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Sun Mar 23 22:37:25 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=omnisharp) {}
+[INFO  Sun Mar 23 22:37:25 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff) {}
+[ERROR Sun Mar 23 22:37:26 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff) error=spawn: python3 failed with exit code 1 and signal 0. 
+[ERROR Sun Mar 23 22:37:26 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[ERROR Sun Mar 23 22:37:30 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=omnisharp) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 22:40:00 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Sun Mar 23 22:40:00 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff) {}
+[INFO  Sun Mar 23 22:40:00 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=omnisharp) {}
+[ERROR Sun Mar 23 22:40:00 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff) error=spawn: python3 failed with exit code 1 and signal 0. 
+[ERROR Sun Mar 23 22:40:00 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[ERROR Sun Mar 23 22:40:05 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=omnisharp) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun Mar 23 22:41:57 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Sun Mar 23 22:41:57 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=omnisharp) {}
+[INFO  Sun Mar 23 22:41:57 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff) {}
+[ERROR Sun Mar 23 22:41:58 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff) error=spawn: python3 failed with exit code 1 and signal 0. 
+[INFO  Sun Mar 23 22:41:58 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=stylua)
+[INFO  Sun Mar 23 22:42:03 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=omnisharp)
+[INFO  Sun Mar 23 22:54:17 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff) {}
+[ERROR Sun Mar 23 22:54:17 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff) error=spawn: python3 failed with exit code 1 and signal 0. 
+[INFO  Sun Mar 23 22:54:30 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff) {}
+[ERROR Sun Mar 23 22:54:30 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff) error=spawn: python3 failed with exit code 1 and signal 0. 
+[INFO  Sun Mar 23 23:21:17 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff) {}
+[ERROR Sun Mar 23 23:21:17 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff) error=spawn: python3 failed with exit code 1 and signal 0. 
+[INFO  Sun Mar 23 23:22:53 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff) {}
+[ERROR Sun Mar 23 23:22:54 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff) error=spawn: python3 failed with exit code 1 and signal 0. 
+[INFO  Sun Mar 23 23:24:39 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff) {}
+[ERROR Sun Mar 23 23:24:40 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff) error=spawn: python3 failed with exit code 1 and signal 0. 
